@@ -13,6 +13,7 @@
     --highlight-color: rgba(255, 255, 255, 0.2);
     --switch-bg-url: url(./assets/moon-stars.svg);
 }
+
 .light{
     --text-color: black;
     --bg-url: url(./assets/cyan.jpg);
@@ -22,11 +23,13 @@
     --highlight-color: rgba(0, 0, 0, 0.1);
     --switch-bg-url: url(./assets/sun.svg);
 }
+
 body{
     background: var(--bg-url) no-repeat top center/cover;
 }
+
 body * {
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Josefin Sans', sans-serif;
     color: var(--text-color);
 }
 
@@ -42,8 +45,7 @@ body * {
 }
 
 #profile img {
-    /*width: 112px;*/
-    width: 90%;
+    width: 200px;
 }
 
 #profile p {
@@ -51,6 +53,7 @@ body * {
     font-size: 24px;
     margin-top: 8px;
 }
+
 #switch {
     position: relative;
     width: 64px;
@@ -71,10 +74,12 @@ body * {
     z-index: 1;
     transform: translateY(-50%);
 }
+
 .light #switch button {
     right: 0;
     left: initial;
 }
+
 #switch span {
     display: block;
     width: 64px;
@@ -156,4 +161,19 @@ footer {
     padding: 24px 0;
     text-align: center;
     font-size: 14px;
+}
+
+#colunas {
+    display: flex;
+    width: 95px;
+    height: 24px;
+
+    background: var(--surface-color);
+    border: 1.5px solid var(--text-color);
+
+    backdrop-filter: blur(4px);
+    -webkit-backdrop-filter: blur(4px);
+    -moz-backdrop-filter: blur(4px);
+    -ms-backdrop-filter: blur(4px);
+    -o-backdrop-filter: blur(4px);
 }
