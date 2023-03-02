@@ -5,7 +5,7 @@ Site para ajudar e concientizar as pessoas sobre o Trote Solidário de Franca - 
 </p>
 
 <p align="center">
-<a href="#-tecnoligias">Tecnoligias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+<a href="#-tecnoligias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 <a href="#-projeto">Projeto</a>
 </p>
 
