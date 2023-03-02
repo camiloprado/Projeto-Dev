@@ -26,4 +26,5 @@ O site é um agregador de links para usar como cartão de visitas online.
 
 ---
 
-Feito pelo alunos de <strong>Ciência da Computação e Sistema da Informação.</strong> - [Conheça a universidade](https://www.unifacef.com.br)
+Feito pelo alunos de <strong>Ciência da Computação e Sistema da Informação.</strong> - [Conheça a universidade](https://www.unifacef.com.br)# teste
+# Trote-Solidario
